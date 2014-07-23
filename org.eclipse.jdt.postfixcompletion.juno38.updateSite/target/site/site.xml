@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.jdt.postfixcompletion.feature_0.0.3.201407231801.jar" id="org.eclipse.jdt.postfixcompletion.feature" version="0.0.3.201407231801">
+      <category name="postfixCodeCompletion"/>
+   </feature>
+   <feature url="features/org.eclipse.jdt.postfixcompletion.juno38.patch_0.0.1.201407231801.jar" id="org.eclipse.jdt.postfixcompletion.juno38.patch" version="0.0.1.201407231801" patch="true">
+      <category name="postfixCodeCompletion"/>
+   </feature>
+   <category-def name="postfixCodeCompletion" label="Postfix Code Completion"/>
+</site>
